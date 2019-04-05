@@ -1,0 +1,11 @@
+*.png
+*.gif
+/examples
+/circle_loop
+/first_sketch
+/lanterns
+/libraries
+/modes
+/python_sketch
+/templates
+/tools
